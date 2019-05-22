@@ -1,0 +1,31 @@
+﻿{
+	"version": 1558523930,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/naveeee-sheet0.png",
+		"images/botÃoatirador-sheet0.png",
+		"images/botÃoatirador-sheet1.png",
+		"images/controledabalinha-sheet0.png",
+		"images/cima-sheet0.png",
+		"images/cima-sheet1.png",
+		"images/ladod-sheet0.png",
+		"images/ladod-sheet1.png",
+		"images/ladoe-sheet0.png",
+		"images/ladoe-sheet1.png",
+		"images/baixo-sheet0.png",
+		"images/baixo-sheet1.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/inimiguinho-sheet0.png",
+		"images/destruiÇÃo-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
